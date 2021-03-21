@@ -18,7 +18,7 @@ Herramientas añadidas:
 - Nodejs
 - Npm
 - Git
-- museeks
+- Museeks
 - Ulauncher
 - Insomnia
 - Visual Studio Code

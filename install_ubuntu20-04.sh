@@ -19,6 +19,9 @@ sudo apt-get update
 sudo apt-get install insomnia
 wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 sudo apt install ./code_1.54.3-1615806378_amd64.deb
+
+# Style and customization
+
 tar -xf ./Mojave-dark.tar.xz
 mkdir ~/.themes
 mv Mojave-dark ~/.themes/
