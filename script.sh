@@ -44,7 +44,9 @@ sudo snap install insomnia
 sudo snap install spotify
 
 # Style and customization
-
+wget https://github.com/EliverLara/Nordic/releases/download/v1.9.0/Nordic-darker.tar.xz
+tar -xf ./Nordic-darker.tar.xz
+mv Nordic-darker ~/.themes/
 sudo cp ./wallpapers/*.jpeg /usr/share/backgrounds
 gsettings set org.gnome.desktop.background picture-uri 'file:///usr/share/backgrounds/3.jpeg'
 gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
