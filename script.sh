@@ -32,7 +32,7 @@ sudo apt install -y gparted gnome-shell-extension-prefs gnome-tweaks nodejs npm 
 # Instalación paquetes
 
 sudo apt install -y ./museeks-amd64.deb
-sudo apt install -y./ulauncher_5.10.0_all.deb
+sudo apt install -y ./ulauncher_5.10.0_all.deb
 
 # Instalación Snaps
 
