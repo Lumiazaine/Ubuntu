@@ -16,7 +16,6 @@ sleep 1;
 
 
 # Descarga paquetes
-wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 wget https://github.com/martpie/museeks/releases/download/0.11.4/museeks-amd64.deb
 wget https://github.com/Ulauncher/Ulauncher/releases/download/5.10.0/ulauncher_5.10.0_all.deb
 
@@ -34,7 +33,6 @@ sudo apt install -y gparted gnome-shell-extension-prefs gnome-tweaks nodejs npm 
 
 sudo apt install -y ./museeks-amd64.deb
 sudo apt install -y./ulauncher_5.10.0_all.deb
-sudo apt install -y ./code_1.54.3-1615806378_amd64.deb
 
 # Instalación Snaps
 
@@ -42,6 +40,7 @@ sudo snap install slack --classic
 sudo snap install telegram-desktop
 sudo snap install insomnia
 sudo snap install spotify
+sudo snap install code --classic
 
 # Style and customization
 wget https://github.com/EliverLara/Nordic/releases/download/v1.9.0/Nordic-darker.tar.xz
