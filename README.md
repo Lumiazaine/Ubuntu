@@ -6,10 +6,5 @@ Script de instalación para configurar y editar escritorio y sistema ubuntu.
 
 [Herramientas añadidas](./DOCS/apps.md)
 
-Modificaciones estéticas:
+[Modificaciones estéticas](./DOCS/style.md)
 
-- Oculta dispositivos y discos montados.
-- Cambia fondo de pantalla.
-- Añade tema Mojave-dark.
-- Habilita el minimizar haciendo click al programa en el dock.
-- Establece Dock en la posicioón baja.
