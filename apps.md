@@ -1,0 +1,18 @@
+#Programas añadidos:
+
+- [Curl](https://curl.se/)
+- [Guake!](http://guake-project.org/)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
+- [Grub-customizer](https://launchpad.net/grub-customizer)
+- [Indicator-cpufreq](https://pkgs.org/download/indicator-cpufreq)
+- [Spotify](https://www.spotify.com/es/download/linux/)
+- [Slack](https://slack.com/intl/es-es/)
+- [Telegram](https://desktop.telegram.org/)
+- [Gparted](https://gparted.org/)
+- [Nodejs](https://nodejs.org/en/)
+- [Npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
+- [Museeks](https://museeks.io/)
+- [Ulauncher](https://ulauncher.io/)
+- [Insomnia](https://insomnia.rest/)
+- [Visual Studio Code](https://code.visualstudio.com/)

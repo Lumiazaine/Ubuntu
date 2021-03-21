@@ -4,25 +4,7 @@ Script de instalación para configurar y editar escritorio y sistema ubuntu.
 
 >este script está sujeto a cambios
 
-Herramientas añadidas:
-
-- Curl
-- Guake!
-- Neofetch
-- Grub-customizer
-- Indicator-cpufreq 
-- Spotify
-- Slack
-- Telegram
-- Gparted
-- Nodejs
-- Npm
-- Git
-- Museeks
-- Ulauncher
-- Insomnia
-- Visual Studio Code
-
+[Herramientas añadidas]()
 
 Modificaciones estéticas:
 

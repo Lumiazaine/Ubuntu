@@ -12,6 +12,8 @@ fi
 
 echo Hello, your system is $OS $VERSION $ARCH bits
 
+sleep 1;
+
 
 # Descarga paquetes
 wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
@@ -25,10 +27,8 @@ sudo apt update && sudo apt upgrade -y
 # Descarga apt 
 
 sudo apt install -y curl guake neofetch grub-customizer indicator-cpufreq 
-sudo apt install -y gparted gnome-shell-extension-prefs gnome-tweaks nodejs npm git spotify-client
-curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | sudo apt-key add - 
-echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
-sudo apt install -f
+sudo apt install -y gparted gnome-shell-extension-prefs gnome-tweaks nodejs npm git
+
 
 # Instalación paquetes
 
@@ -41,6 +41,7 @@ sudo apt install -y ./code_1.54.3-1615806378_amd64.deb
 sudo snap install slack --classic
 sudo snap install telegram-desktop
 sudo snap install insomnia
+sudo snap install spotify
 
 # Style and customization
 
