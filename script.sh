@@ -45,9 +45,6 @@ sudo snap install spotify
 
 # Style and customization
 
-tar -xf ./Mojave-dark.tar.xz
-mkdir ~/.themes
-mv Mojave-dark ~/.themes/
 sudo cp ./wallpapers/*.jpeg /usr/share/backgrounds
 gsettings set org.gnome.desktop.background picture-uri 'file:///usr/share/backgrounds/3.jpeg'
 gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
