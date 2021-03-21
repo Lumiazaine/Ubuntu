@@ -22,6 +22,7 @@ sudo apt install ./code_1.54.3-1615806378_amd64.deb
 tar -xf ./Mojave-dark.tar.xz
 mkdir ~/.themes
 mv Mojave-dark ~/.themes/
-sudo mv ./wallpaper.jpeg /usr/share/backgroudns
-gsettings get org.gnome.desktop.background picture-uri
-'file:///usr/share/backgrounds/wallpaper.jpeg'
+sudo cp ./wallpaper.jpeg /usr/share/backgrounds
+gsettings set org.gnome.desktop.background picture-uri 'file:///usr/share/backgrounds/wallpaper.jpeg'
+gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
