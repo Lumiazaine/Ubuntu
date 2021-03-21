@@ -10,9 +10,9 @@
 
 - Añade tema Mojave-dark.
 
-`tar -xf ./Mojave-dark.tar.xz
-mkdir ~/.themes
-mv Mojave-dark ~/.themes/`
+`tar -xf ./Mojave-dark.tar.xz`
+`mkdir ~/.themes`
+`mv Mojave-dark ~/.themes/`
 
 - Habilita el minimizar haciendo click al programa en el dock.
 
