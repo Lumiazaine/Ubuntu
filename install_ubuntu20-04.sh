@@ -13,8 +13,6 @@ fi
 echo Hello, your system is $OS $VERSION $ARCH bits
 
 
-
-
 # Descarga paquetes
 wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
 wget https://github.com/martpie/museeks/releases/download/0.11.4/museeks-amd64.deb
