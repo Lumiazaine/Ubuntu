@@ -4,7 +4,7 @@ Script de instalación para configurar y editar escritorio y sistema ubuntu.
 
 >este script está sujeto a cambios
 
-[Herramientas añadidas]()
+[Herramientas añadidas](./apps.md)
 
 Modificaciones estéticas:
 
